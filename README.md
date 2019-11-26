@@ -1,1 +1,1 @@
-# Python-mini-projects
+# Complex number calculator
